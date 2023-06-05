@@ -55,7 +55,7 @@ See the schedule <a href = "https://cognitiveaibenchmarking.org/schedule/">here<
 </div> -->
 
 <div>
-Feel free to contact the organizers at: <a href="organizers@cognitiveaibenchmarking.org">organizers@cognitiveaibenchmarking.org</a>.
+Feel free to contact the organizers at: <a href="mailto:organizers@cognitiveaibenchmarking.org">organizers@cognitiveaibenchmarking.org</a>.
 </div>
 
 <div style="width: 100%">
