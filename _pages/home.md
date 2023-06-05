@@ -87,7 +87,7 @@ Feel free to contact the organizers at: <a href="organizers@cognitiveaibenchmark
 
 <div style="float: left; margin: 10px">
 <a href="https://rxdhawkins.com">
-  <img src="assets/custom_images/robert.webp" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="assets/custom_images/robert.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://rxdhawkins.com"><b>Robert Hawkins</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Princeton</p></span>
