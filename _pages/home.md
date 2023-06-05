@@ -36,11 +36,11 @@ social: false  # includes social icons at the bottom of the page
 
 <div>
 <p>
-    What are the current limits of AI models in explaining human cognition and behavior? How might approaches from the cognitive sciences drive the development of more robust and reliable AI systems? The goal of this workshop is bring together researchers across cognitive science and artificial intelligence (AI) to engage with these questions and identify opportunities to work together to advance progress in both fields. In particular, we propose Cognitive-AI Benchmarking as a particularly promising strategy --- that is, the community-coordinated establishment of common benchmarks, tools, and best practices for model-human comparisons across diverse and ecologically relevant domains and tasks. We will host a combination of talks, panel discussion, and breakout activities to: highlight past successes in Cognitive-AI Benchmarking and limitations of current approaches, share tools and best practices, and outline future challenges and goals for the field.
+What are the current limits of AI models in explaining human cognition and behavior? How might approaches from the cognitive sciences drive the development of more robust and reliable AI systems? The goal of this workshop is bring together researchers across cognitive science and artificial intelligence (AI) to engage with these questions and identify opportunities to work together to advance progress in both fields. In particular, we propose Cognitive-AI Benchmarking as a particularly promising strategy --- that is, the community-coordinated establishment of common benchmarks, tools, and best practices for model-human comparisons across diverse and ecologically relevant domains and tasks. We will host a combination of talks, panel discussion, and breakout activities to: highlight past successes in Cognitive-AI Benchmarking and limitations of current approaches, share tools and best practices, and outline future challenges and goals for the field.
 
 At <a href="https://cognitivesciencesociety.org/cogsci-2023/">CogSci 2023</a>, we bring these perspectives together.</p>
 
-<p>This workshop will explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration.<p>
+<!-- <p>This workshop will explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration.<p> -->
 <ul>
 
 <p>
