@@ -13,6 +13,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Set up ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
     - uses: actions/checkout@v2
     - name: Build the site in the jekyll/builder container
       # running jekyll build in docker. Using a different destination folder and two config files
