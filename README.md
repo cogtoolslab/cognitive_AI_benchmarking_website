@@ -1,3 +1,3 @@
-This is the webpage for the images2symbols workshop
+This is the webpage for the Cognitive AI Benchmarking workshop this summer at the CogSci Conference (July 26-29th in Sydney, Australia).
 
-[site](https://images2symbols.github.io)
+[site](https://XXX)
