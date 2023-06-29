@@ -44,7 +44,7 @@ permalink: /schedule/
                 <h2>10:30-10:45AM, <a href="https://cocosci.princeton.edu/jpeterson/">Joshua Peterson<strong>(Recorded)</strong></a></h2> 
                 <p>Princeton University</p>
                 <h2>10:45-11:00AM, COFFEE BREAK FOR DISCUSSION</h2> 
-                <h2>11:00AM-noon<a href="https://ac.felixbinder.net/">Felix Binder <strong>(Interactive Tutorial and Discussion)</strong></a></h2> 
+                <h2>11:00AM-noon, <a href="https://ac.felixbinder.net/">Felix Binder <strong>(Interactive Tutorial and Discussion)</strong></a></h2> 
                 <p>UC San Diego</p>
             </div>
         </div>
