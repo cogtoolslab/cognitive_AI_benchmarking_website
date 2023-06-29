@@ -29,11 +29,13 @@ permalink: /schedule/
             <div class="bead"> </div>
             <div class="content">
                 <h1> July 26th (9AM-noon Sydney time): On-Site CogSci Workshop </h1>
-                <h2>9:00-9:15AM, <a href="http://www.cs.utexas.edu/~grauman/" style="position:relative; display:block">Judith Fan <strong>(Opening Remarks)</strong></a></h2> 
-                Stanford University
-                <h2>9:15-9:30AM, <a href="http://www.cs.utexas.edu/~grauman/" style="position:relative; display:block">Kristen Grauman <strong>(Recorded)</strong></a></h2> 
-                University of Texas at Austin
-                <h2>9:30-9:45AM, <a href="http://martin-hebart.de" style="position:relative; display:block">Martin Hebart <strong>(Recorded)</strong></a></h2> 
+                <h3>9:00-9:15AM, [Judith Fan](https://cogtoolslab.github.io/) <strong>(Opening Remarks)</h3> 
+                <p>Stanford University</p>
+                <br>
+                <h3>9:15-9:30AM, [Kristen Grauman](http://www.cs.utexas.edu/~grauman/) <strong>(Recorded)</h3> 
+                <p>University of Texas at Austin</p>
+                <br>
+                <h2>9:30-9:45AM, [Martin Hebart](http://martin-hebart.de) <strong>(Recorded)</h2> 
                 Justus Liebig University Gießen and Max Planck Institute of Human Cognitive and Brain Science
                 <h2>9:45-10:00AM, COFFEE BREAK FOR DISCUSSION</h2> 
                 <br>
