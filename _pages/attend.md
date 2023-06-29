@@ -1,36 +1,23 @@
 ---
 layout: page
-title: attend
+title: participate
 nav: true
 dropdown: false
-permalink: /seminar/
+permalink: /participate/
 ---
 
-<div style="text-align: center;">
-<p><h3>There are two ways to attend:</h3></p>
-</div>
+## There are two ways to participate in the workshop:
 
-<br>
+### Before CogSci (Virtual)
 
+In advance of CogSci 2023, we will be hosting an interactive virtual seminar ***Monday, July 19, 2023** from **noon-1PM ET**.
+This session will open to the public and streamed online, allowing attendees to participate in this component of the workshop from anywhere in the world. 
+These virtual talks will be recorded and available online for asynchronous viewing, alongside other materials recorded from speakers who are not able to attend CogSci in person.
 
-<div>
+**Please register [here](https://forms.gle/mHxV3f8Xp3nhuDQ3A)** if you are interested in attending the virtual session and we will keep you updated!
 
-<p><h5><b>At CogSci (Sydney)</b></h5></p>
-</div>
+### On-site at CogSci (Sydney)
 
-<div>
-<p> At CogSci, we will stream recordings of our virtual seminars, host a hybrid panel discussion, and offer an in-person poster session to facilitate informal interactions with other researchers. See the schedule <a href="https://cognitiveaibenchmarking.org/schedule/">here</a>.</p>
-
-<div>
-<p><h5><b>Virtual</b></h5></p>
-</div>
-
-<div>
-<p>The workshop will be broadcast live. You will be able to find a live stream here.</p>
-
-<p>Lightly edited recordings will be available after the workshop.</p>
-</div>
-
-<br>
-
-</div>
+As part of the ``flipped'' workshop format, the workshop in Sydney will focus primarily on interactive, in-person discussion.
+We will stream recordings of our virtual seminars for those who were unable to attend, and feature several live presentations on conducting Cognitive-AI Benchmarking studies.
+Please find a [rough schedule here](/schedule.html). 
