@@ -10,6 +10,8 @@ permalink: /participate/
 
 #### Before CogSci (Virtual)
 
+![poster for virtual seminar](assets/img/virtual_seminar_poster.pdf)
+
 In advance of CogSci 2023, we will be hosting an interactive virtual seminar **Monday, July 17, 2023** from **noon-1PM ET**.
 This session will open to the public and streamed online, allowing attendees to participate in this component of the workshop from anywhere in the world. 
 These virtual talks will be recorded and available online for asynchronous viewing, alongside other materials recorded from speakers who are not able to attend CogSci in person.
