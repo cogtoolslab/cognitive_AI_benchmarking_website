@@ -15,7 +15,7 @@ permalink: /schedule/
         <div class="section">
             <div class="bead"> </div>
             <div class="content">
-                <h1> July 19th (noon-1PM Eastern): Virtual Seminar </h1>
+                <h1> Monday, July 17th (noon-1PM Eastern): Virtual Seminar </h1>
                 <h2>noon-12:15PM, <a href="https://tallinzen.net/">Tal Linzen <strong>(Live)</strong></a></h2> 
                 <p>New York University and Google</p>
                 <h2>12:15-12:30PM, <a href="https://www.tshu.io/">Tianmin Shu <strong>(Live)</strong></a></h2> 
