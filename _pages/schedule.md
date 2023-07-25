@@ -29,23 +29,35 @@ permalink: /schedule/
             <div class="bead"> </div>
             <div class="content">
                 <h1> July 26th (9AM-noon Sydney time): On-Site CogSci Workshop </h1>
-                <h2>9:00-9:15AM, <a href="https://cogtoolslab.github.io/">Judith Fan <strong>(Opening Remarks)</strong></a></h2> 
+                <h2>8:45-9:00AM, <a href="https://cogtoolslab.github.io/">Judith Fan <strong>(Opening Remarks)</strong></a></h2> 
                 <p>Stanford University</p>
-                <h2>9:15-9:30AM, <a href="http://www.cs.utexas.edu/~grauman/">Kristen Grauman <strong>(Recorded)</strong></a></h2> 
+                <h2>9:00-9:20AM, <a href="http://www.cs.utexas.edu/~grauman/">Seminar for Vision: Kristen Grauman <strong>(Recorded)</strong></a></h2> 
                 <p>University of Texas at Austin</p>
-                <h2>9:30-9:45AM, <a href="http://martin-hebart.de">Martin Hebart <strong>(Recorded)</strong></a></h2> 
+                <h2>9:20-9:40AM, <a href="http://martin-hebart.de">Seminar for Vision: Martin Hebart <strong>(Recorded)</strong></a></h2> 
                 <p>Justus Liebig University Gießen and Max Planck Institute of Human Cognitive and Brain Science</p>
-                <h2>9:45-10:00AM, COFFEE BREAK FOR DISCUSSION</h2> 
+                <h2>9:40-10:00AM, Seminar for Vision: Discussion</h2>
+                <h2>10:00-10:30AM, COFFEE BREAK FOR DISCUSSION</h2> 
                 <br>
-                <h2>10:00-10:15AM, <a href="https://profiles.stanford.edu/fei-fei-li">Fei-Fei Li <strong>(Recorded)</strong></a></h2> 
-                <p>Stanford University</p>
-                <h2>10:15-10:30AM, <a href="https://www.psych.nyu.edu/dillon/">Moira Dillon <strong>(Recorded)</strong></a> </h2>
+                <h2>10:30-10:45AM, <a href="https://tallinzen.net/">Seminar for Language & Social Cognition: Tal Linzen <strong>(Recorded)</strong></a></h2> 
                 <p>New York University</p>
-                <h2>10:30-10:45AM, <a href="https://cocosci.princeton.edu/jpeterson/">Joshua Peterson<strong>(Recorded)</strong></a></h2> 
-                <p>Princeton University</p>
-                <h2>10:45-11:00AM, COFFEE BREAK FOR DISCUSSION</h2> 
-                <h2>11:00AM-noon, <a href="https://ac.felixbinder.net/">Felix Binder <strong>(Interactive Tutorial and Discussion)</strong></a></h2> 
+                <h2>10:45-11:00AM, <a href="https://www.tshu.io/">Seminar for Language & Social Cognition: Tianmin Shu <strong>(Recorded)</strong></a></h2> 
+                <p>Massachusetts Institute of Technology</p>
+                <h2>11:00-11:15AM, <a href="https://jennhu.github.io/">Seminar for Language & Social Cognition: Jennifer Hu <strong>(Recorded)</strong></a></h2> 
+                <p>Harvard University</p>
+                <h2>11:15-11:30AM, Seminar for Language & Social Cognition: Discussion</h2>
+                <h2>11:30-1:00PM, LUNCH BREAK</h2> 
+                <br>
+                <h2>1:00PM-2:00PM, Panel Discussion</h2> 
+                <h2><a href="https://ai.stanford.edu/~zharu/">Panelist: Ruohan Zhang </strong></a></h2>
+                <p>Stanford University</p>
+                <h2><a href="https://www.psych.nyu.edu/dillon/">Panelist: Moira Dillon</strong></a></h2>
+                <p>New York University</p>
+                <h2><a href="http://stanford.edu/~yamins/">Panelist: Daniel Yamins</strong></a></h2>
+                <p>Stanford University</p>
+                <h2>2:00-2:30PM, <a href="https://ac.felixbinder.net/"> Best Practices - Felix Binder </strong></a></h2> 
                 <p>UC San Diego</p>
+                <h2>2:30-3:00PM, BREAK</h2> 
+                <h2>3:00-4:00PM, <a href="https://docs.google.com/document/d/1H_yDNiA2zPyvp4VYaiFALRmAtbIG4OmN70AzGFNjKwE/edit">Charting the course for the future of CAB: breakout groups</strong></a></h2> 
             </div>
         </div>
     </div>
