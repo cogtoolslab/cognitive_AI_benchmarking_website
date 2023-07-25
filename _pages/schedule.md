@@ -48,16 +48,16 @@ permalink: /schedule/
                 <h2>11:30-1:00PM, LUNCH BREAK</h2> 
                 <br>
                 <h2>1:00PM-2:00PM, Panel Discussion</h2> 
-                <h2><a href="https://ai.stanford.edu/~zharu/">Panelist: Ruohan Zhang </strong></a></h2>
+                <h2><a href="https://ai.stanford.edu/~zharu/">Panelist: Ruohan Zhang </a></h2>
                 <p>Stanford University</p>
-                <h2><a href="https://www.psych.nyu.edu/dillon/">Panelist: Moira Dillon</strong></a></h2>
+                <h2><a href="https://www.psych.nyu.edu/dillon/">Panelist: Moira Dillon </a></h2>
                 <p>New York University</p>
-                <h2><a href="http://stanford.edu/~yamins/">Panelist: Daniel Yamins</strong></a></h2>
+                <h2><a href="http://stanford.edu/~yamins/">Panelist: Daniel Yamins </a></h2>
                 <p>Stanford University</p>
-                <h2>2:00-2:30PM, <a href="https://ac.felixbinder.net/"> Best Practices - Felix Binder </strong></a></h2> 
+                <h2>2:00-2:30PM, <a href="https://ac.felixbinder.net/"> Best Practices - Felix Binder </a></h2> 
                 <p>UC San Diego</p>
                 <h2>2:30-3:00PM, BREAK</h2> 
-                <h2>3:00-4:00PM, <a href="https://docs.google.com/document/d/1H_yDNiA2zPyvp4VYaiFALRmAtbIG4OmN70AzGFNjKwE/edit">Charting the course for the future of CAB: breakout groups</strong></a></h2> 
+                <h2>3:00-4:00PM, <a href="https://docs.google.com/document/d/1H_yDNiA2zPyvp4VYaiFALRmAtbIG4OmN70AzGFNjKwE/edit">Charting the course for the future of CAB: breakout groups </a></h2>
             </div>
         </div>
     </div>
